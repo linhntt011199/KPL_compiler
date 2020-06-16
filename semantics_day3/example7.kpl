@@ -1,0 +1,10 @@
+Program Example7;
+Function g(x:integer):integer;
+Begin
+End;
+Function f(x:integer):integer;
+Begin
+	f:=x*g(x);
+End;
+BEGIN
+END.
